@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Objective of this project is to demonstrate a shopping cart and how to dynamically 
+control the state of that cart. 
+
 This project uses Bootstrap version 4.1.1   
 `npm i bootstrap@4.1.1`
 
