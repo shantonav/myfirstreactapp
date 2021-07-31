@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project uses Bootstrap version 4.1.1   
+`npm i bootstrap@4.1.1`
+
+Further along this project demonstrates  
+- Dynamic component rendering 
+- adding child components
+- modifying local state
+- usage of `props` to manage state between parent and child component
+- event listeners on  JSX virtual DOM elements.
+- call backs in parents that child can call to maintain one source of truth
+- bootstrap CSS (dynamic rending of classes on JSX virtual DOM elements )
+
 ## Available Scripts
 
 In the project directory, you can run:
