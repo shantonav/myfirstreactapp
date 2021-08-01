@@ -27,7 +27,7 @@ class Counter extends Component{
         this.handleCount = this.handleCount.bind( this );
     }*/
     handleDecrementCount = () => {
-        if ( this.state.value == 0 ) {
+        if ( this.state.value === 0 ) {
             console.log( "Count already zero cannot make it negative ");
             return;
         }
